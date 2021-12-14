@@ -17,4 +17,7 @@ How to use:
   Contents copied to Targetimage.png
   
  4. Just open image file in notepad or Notepad ++ and go downwards and you can see your secret message was feeded.
+ 
+ 5. This is trail version Friends. We provide Encryption feature in full version which is coming soon...
+   
   
