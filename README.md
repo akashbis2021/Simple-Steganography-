@@ -4,8 +4,11 @@ Here I make  a Simple Steganography using C Language
 
 How to use:
 1.first run the program in cmd or VScode.
+
 2.make sure your attackfile and targetfile in same path
+
 3.output:
+  
   Enter the Attackfile to open for reading: // enter your txtfilename.txt
   
   Attackfile.txt // file contain some lines
