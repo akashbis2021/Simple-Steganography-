@@ -1,5 +1,5 @@
 # Simple-Steganography-
-Here I make  a Simple Steganography using C Language 
+Here I make  a Simple Steganography using C Language windows/Linux
 
 
 How to use:
